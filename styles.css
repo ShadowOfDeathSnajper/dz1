@@ -1,0 +1,19 @@
+body {
+  height: 100px;
+  display: table-cell;
+  vertical-align: middle;
+  border: 2px solid black;
+  font-size: 100%;
+    }
+h1 {
+    color: rgb(146, 0, 0);
+    font-size: 30px;
+  }
+  p {
+    font-style: italic;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+  }
